@@ -1,0 +1,6 @@
+{
+  "name": "@repo/my-astro-package",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module"
+}
